@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/views/auth-views/components/style.css"],"names":[],"mappings":"AAAA,cACI,kBAAmB,CACnB,UAAW,CACX,eACJ","file":"69.0ddbf8e6.chunk.css","sourcesContent":[".login-button{\n    background: #009CA7;\n    color: #fff;\n    font-weight: bold;\n}"]}
